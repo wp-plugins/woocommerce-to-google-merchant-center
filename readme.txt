@@ -17,6 +17,7 @@ Submit your product woocommerce to google merchant center.
 Submit your product woocommerce to google merchant center.
 After google verification it will be appear in google shop
 
+[Documentation](http://mishubd.com/documentation/woocommerce-to-google-merchant-center/)
 
 == Installation ==
 
@@ -34,7 +35,14 @@ Browser Compatibility
 
 == Screenshots ==
 
-
+1. Screenshot Settings
+2. Screenshot Add button
+3. Screenshot Product submit form to merchant center
+4. Screenshot Submission error
+5. Screenshot Submit success message
+6. Screenshot Merchant center view
+7. Screenshot Delete button
+8. Screenshot Delete button
 
 == Changelog ==
 Noting
