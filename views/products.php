@@ -11,8 +11,14 @@
 require_once dirname(__FILE__) . '/../includes/countries.php';
 require_once dirname(__FILE__) . '/../includes/languages.php';
 
-$products = wogo_get_products_list();
-$products = $products->getResources();
+try{
+    $products = wogo_get_products_list();
+    $products = $products->getResources();
+} catch(Exception $e) {
+  echo 'Message From Google: ' .$e->getMessage();
+}
+
+$products = isset( $products ) ? $products : array();
 if(!count($products)) {
     ?>
     <p><h3><?php _e( 'No product found!', 'wogo' ); ?></h3></p>
