@@ -32,8 +32,12 @@
 .wogo-form .description {
 	margin-left: 24%;
 }
-.wogo-form input[type="submit"], .wogo-form input[type="checkbox"] {
+.wogo-form input[type="submit"] {
 	width: auto;
+}
+.wogo-form input[type="checkbox"] {
+	width: 14px;
+	height: 14px;
 }
 .wogo-form input[type="submit"] {
 	float: none;
@@ -55,7 +59,7 @@
 	background: #2ea2cc;
     color: #fff;
     height: 16px;
-    margin-left: -16px;
+	left: 52.8%;
     position: absolute;
     text-align: center;
     top: 2px;

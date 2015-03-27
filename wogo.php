@@ -61,8 +61,10 @@ function WOGO_autoload( $class ) {
         }
     }
 }
+
 spl_autoload_register( 'WOGO_autoload' );
 require_once dirname(__FILE__) . '/includes/function.php';
+
 class WP_Wogo {
 
     private $client_id;
