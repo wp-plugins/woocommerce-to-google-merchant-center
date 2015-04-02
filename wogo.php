@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/asaquzzaman/woocommerce-to-google-merchant-center
  * Description: Submit your product woocommerce to google merchant center.
  * Author: asaquzzaman
- * Version: 0.1
+ * Version: 0.2
  * Author URI: http://mishubd.com
  * License: GPL2
  * TextDomain: wogo
