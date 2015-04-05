@@ -10,6 +10,8 @@ License: GPLv2 or later
 == Description ==
 [Documentation](http://mishubd.com/documentation/woocommerce-to-google-merchant-center/)
 
+[youtube https://www.youtube.com/watch?v=ZAskOIV6tHk]
+
 Submit your product woocommerce to google merchant center.
 
 = Features:  =
