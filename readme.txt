@@ -6,8 +6,9 @@ Requires at least: 3.3
 Tested up to: 3.9.1
 Stable tag: trunk
 License: GPLv2 or later
-= For unlimited product submission you have to purchase this plugin from here (http://mishubd.com/product/woogoo) =
+
 == Description ==
+= For unlimited product submission you have to purchase this plugin from [here] (http://mishubd.com/product/woogoo) =
 [Documentation](http://mishubd.com/documentation/woocommerce-to-google-merchant-center/)
 
 [youtube https://www.youtube.com/watch?v=ZAskOIV6tHk]
