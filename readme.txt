@@ -17,7 +17,9 @@ Submit your product woocommerce to google merchant center.
 = Features:  =
 
 Submit your product woocommerce to google merchant center.
-After google verification it will be appear in google shop
+After google verification it will be appear in google shop.
+
+After success 5 posts you have to purchase this plugin.
 
 [Documentation](http://mishubd.com/documentation/woocommerce-to-google-merchant-center/)
 
