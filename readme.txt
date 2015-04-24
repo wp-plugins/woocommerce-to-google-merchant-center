@@ -22,7 +22,7 @@ Submit your product woocommerce to google merchant center.
 Submit your product woocommerce to google merchant center.
 After google verification it will be appear in google shop.
 
-After success 5 posts you have to purchase this plugin.
+== After success 5 submission you have to purchase this plugin from [here](http://mishubd.com/product/woogoo/) ==
 
 [Documentation](http://mishubd.com/documentation/woocommerce-to-google-merchant-center/)
 
