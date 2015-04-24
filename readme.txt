@@ -11,7 +11,7 @@ License: GPLv2 or later
 [Documentation](http://mishubd.com/documentation/woocommerce-to-google-merchant-center/)
 
 [youtube https://www.youtube.com/watch?v=ZAskOIV6tHk]
-
+= For unlimited product submission you have to purchase this plugin from here (http://mishubd.com/product/woogoo) =
 Submit your product woocommerce to google merchant center.
 
 = Features:  =
