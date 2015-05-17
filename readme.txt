@@ -8,6 +8,9 @@ Stable tag: trunk
 License: GPLv2 or later
 
 == Description ==
+
+First five product submission to google merchant center is free.
+
 For unlimited product submission you have to purchase this plugin from [here](http://mishubd.com/product/woogoo/)
 
 
