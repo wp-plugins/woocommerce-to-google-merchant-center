@@ -375,9 +375,11 @@ class WP_Wogo {
     }
 }
 
-add_action( 'plugins_loaded', function() {
+add_action( 'plugins_loaded', 'woogoo_init' );
+
+function woogoo_init() {
     new WP_Wogo();
-});
+};
 
 /**
  * Google client class Instantiate
