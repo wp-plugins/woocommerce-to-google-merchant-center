@@ -1,3 +1,6 @@
+input[type="checkbox"], input[type="radio"] {
+	width: 16px !important;
+}
 .wogo-form textarea,
 .wogo-form input,
 .wogo-form select
@@ -104,4 +107,40 @@
 }
 .wogo-nav-tab-wrap {
 	margin-bottom: 10px !important;
+}
+
+.postbox .postbox-title {
+	margin: 0;
+	padding: 8px 12px;
+	border-bottom: 1px solid #eee;
+}
+
+.wogo-feed-form-content {
+	padding: 8px 12px;
+}
+
+
+.wogo-feed-form-content .wogo-field
+{
+	float: left;
+	width: 30%;
+}
+.wogo-feed-form-content label  {
+	width: 24%;
+	float: left;
+}
+
+.wogo-feed-form-content .wogo-form-field {
+	display: inline-block;
+    width: 100%;
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.wogo-feed-form-content .description {
+	display: inline-block;
+	width: 70%;
+}
+.wogo-feed-form-content .description {
+	margin-left: 24%;
 }

@@ -1,3 +1,13 @@
+<?php
+$is_access_premission = $this->check_authenticate();
+
+if ( ! $is_access_premission ) {
+    $this->authentication_process();
+    return;
+}
+
+?>
+
 <div class="wrap">
 
     <div class="wogo-submit-notification">

@@ -9,15 +9,6 @@ License: GPLv2 or later
 
 == Description ==
 
-First five product submission to google merchant center is free.
-
-For unlimited product submission you have to purchase this plugin from [here](http://mishubd.com/product/woogoo/)
-
-
-[Documentation](http://mishubd.com/documentation/woocommerce-to-google-merchant-center/)
-
-[youtube https://www.youtube.com/watch?v=ZAskOIV6tHk]
-
 Submit your product woocommerce to google merchant center.
 
 = Features:  =
@@ -25,7 +16,14 @@ Submit your product woocommerce to google merchant center.
 Submit your product woocommerce to google merchant center.
 After google verification it will be appear in google shop.
 
-After success 5 submission you have to purchase this plugin from [here](http://mishubd.com/product/woogoo/)
+This plugin has pro version you will get it from [here](http://mishubd.com/product/woogoo/)
+
+[Documentation](http://mishubd.com/documentation/woocommerce-to-google-merchant-center/)
+
+[youtube https://www.youtube.com/watch?v=ZAskOIV6tHk]
+
+This free verision has product submission limited. Here is available pro version for unlimited product submission.
+You will get the por version from [here](http://mishubd.com/product/woogoo/)
 
 [Documentation](http://mishubd.com/documentation/woocommerce-to-google-merchant-center/)
 
@@ -65,6 +63,3 @@ You can contact with me joy.mishu@gmail.com with this email address. You can ask
 Nothing to say
 
 Thanks for beign with me.
-
-
-

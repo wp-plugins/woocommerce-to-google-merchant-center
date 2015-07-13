@@ -1,4 +1,14 @@
 <?php
+$is_access_premission = $this->check_authenticate();
+
+if ( ! $is_access_premission ) {
+    $this->authentication_process();
+    return;
+}
+
+?>
+
+<?php
     if ( isset( $_GET['tab'] ) && $_GET['tab'] == 'wogo_product_details' ) {
         if( isset( $_GET['product_id'] ) && !empty( $_GET['product_id'] ) ) {
             require_once dirname(__FILE__) . '/single-product.php';

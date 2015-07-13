@@ -9,6 +9,44 @@
             $('.wogo-form').on( 'click', '.wogo-product-field-remove', this.removeMoreGroup );
             $('.wogo-delete-product').on('click', this.deleteProduct);
             $('.wogo-form').on( 'change', '.product_id', this.changeProduct );
+            $('#wogo').on( 'change', '.wogo-all-product-checkbox-feed', this.allProductHide );
+            $('#wogo').on('change', '.wogo-all-product-checkbox', this.feedDefault );
+            this.chosen();
+            this.allProductHide();
+            this.datePicker();
+            this.feedDefault();
+        },
+
+        feedDefault: function() {
+            var check = $('.wogo-all-product-checkbox');
+            $.each( check, function( key, val ) {
+                if ( $(val).prop('checked') ) {
+                    $(val).closest('.wogo-form-field').siblings('.wogo-form-field').hide();
+                } else {
+                   $(val).closest('.wogo-form-field').siblings('.wogo-form-field').show();
+                }
+            });
+        },
+
+        datePicker: function() {
+            $('.wogo-date-picker').datepicker({
+                dateFormat: "yy-mm-dd",
+                changeYear: true,
+                changeMonth: true,
+                numberOfMonths: 1,
+            });
+        },
+        allProductHide: function() {
+            if ( $('.wogo-all-product-checkbox-feed').prop('checked') ) {
+                $('.wogo-product-chosen-field-wrap').hide();
+            } else {
+                $('.wogo-product-chosen-field-wrap').show();
+            }
+        },
+        chosen: function() {
+
+            $('#wogo .wogo-chosen').chosen({ width: '300px' });
+
         },
 
         changeProduct: function() {
@@ -106,8 +144,8 @@
                     } else {
                         $('.wogo-submit-notification').addClass('updated error')
                             .html(
-                                '<div class="wogo-error-code">Error code :'+res.data.error_code+'</div>'+
-                                '<div class="error-message">Error message: '+res.data.error_msg+'</div>'
+                                '<div class="wogo-error-code">Error code : '+res.data.error_code+'</div>'+
+                                '<div class="error-message">Error message : '+res.data.error_msg+'</div>'
                             );
                         $('body,html').animate({scrollTop: 10 }, 'slow');
                     }
