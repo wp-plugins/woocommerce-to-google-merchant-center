@@ -1,7 +1,7 @@
 === Woocommerce to Google merchant center ===
 
 Contributors: asaquzzaman
-Tags: merchant center, google merchant center, woo merchant, woocommerce merchant
+Tags: merchant center, google merchant center, woo merchant, woocommerce merchant, woocommerce product feed, google product feed, product feed, woocommerce feed, google feed
 Requires at least: 3.3
 Tested up to: 3.9.1
 Stable tag: trunk
