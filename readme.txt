@@ -18,12 +18,12 @@ After google verification it will be appear in google shop.
 
 This plugin has pro version you will get it from [here](http://mishubd.com/product/woogoo/)
 
+This free verision has product submission limited. Here is available pro version for unlimited product submission.
+You will get the por version from [here](http://mishubd.com/product/woogoo/)
+
 [Documentation](http://mishubd.com/documentation/woocommerce-to-google-merchant-center/)
 
 [youtube https://www.youtube.com/watch?v=ZAskOIV6tHk]
-
-This free verision has product submission limited. Here is available pro version for unlimited product submission.
-You will get the por version from [here](http://mishubd.com/product/woogoo/)
 
 [Documentation](http://mishubd.com/documentation/woocommerce-to-google-merchant-center/)
 
